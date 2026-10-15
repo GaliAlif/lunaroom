@@ -1,0 +1,10 @@
+Audio asset manifest
+
+The current MVP intentionally uses Web Audio API synthesis for rain, wind, and bird-like chirps. No recorded audio files are included.
+
+For a recorded-audio edition, add:
+- public/audio/rain.mp3
+- public/audio/forest-wind.mp3
+- public/audio/forest-birds.mp3
+
+Only include audio that you created or that is explicitly licensed for redistribution. Document each asset's title, creator, source URL, license, and any attribution requirements in public/audio/ASSET-LICENSES.md.
